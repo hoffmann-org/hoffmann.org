@@ -10,7 +10,7 @@ locale                   : "de"
 title                    : "Oliver Hoffmann"
 title_separator          : " "
 name                     : "Oliver Hoffmann"
-description              : "Demokratie in Österreich"
+description              : ""
 url                      : "https://hoffmann.org"
 baseurl                  : "/"
 #logo                     : "https://res.cloudinary.com/ontore/image/upload/v1646302508/2022-03-03-demokratie.at-logo_oh4eqe.png"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : hoffmann_2022
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oliver Hoffmann"
   avatar           : ""
-  bio              : "Demokratie in Österreich"
+  bio              : ""
   location         : "Österreich"
   email            :
   uri              :
